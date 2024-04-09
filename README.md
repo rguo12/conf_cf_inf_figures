@@ -1,2 +1,2 @@
-Figures for extended results for the KDD submission
+Results for the KDD rebuttal of
 "Conformal Counterfactual Inference under Hidden Confounding"
